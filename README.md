@@ -8,12 +8,17 @@ This is the place where I opensource stuff and break things :rofl:
 - :hourglass_flowing_sand: Learning K8s, Golang, AWS
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<be>
 
+**languages and tools:**  
+<p>
+<img src="https://img.icons8.com/ios-filled/32/F4511E/git.png">
+<img src="https://img.icons8.com/ios-filled/32/0277BD/kubernetes.png">
+</p>
 
 <img align="right" alt="GIF" src="https://github.com/shahabhameed/shahabhameed/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 📈 &nbsp;**My Github Stats**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shahabhameed&show_icons=true&theme=dark" alt="shahabhameed" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shahabhameed&show_icons=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&theme=dracula" alt="shahabhameed" />
 
 📊 &nbsp;**Weekly development breakdown**
 
