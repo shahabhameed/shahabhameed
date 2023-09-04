@@ -23,6 +23,10 @@ This is the place where I opensource stuff and break things :rofl:
 
 </p>
 
+⭐ &nbsp;**Recent Activity**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 📈 &nbsp;**My Github Stats**
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shahabhameed&show_icons=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&theme=dracula" alt="shahabhameed" />
