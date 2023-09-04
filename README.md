@@ -13,13 +13,13 @@ This is the place where I opensource stuff and break things :rofl:
 🎯 &nbsp;**Languages And Tools**  
 <p>
   
-  <img src="https://img.icons8.com/ios-filled/48/F4511E/git.png">
-  <img src="https://img.icons8.com/ios-filled/48/0277BD/kubernetes.png">
-  <img src="https://img.icons8.com/color/48/FFCC80/golang.png">
-  <img src="https://img.icons8.com/color/48/prometheus-app.png">
-  <img src="https://img.icons8.com/color/48/postgreesql.png">
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png">
-  <img src="https://img.icons8.com/color/48/ubuntu--v1.png">
+  <img src="https://img.icons8.com/ios-filled/32/F4511E/git.png">
+  <img src="https://img.icons8.com/ios-filled/32/0277BD/kubernetes.png">
+  <img src="https://img.icons8.com/color/32/FFCC80/golang.png">
+  <img src="https://img.icons8.com/color/32/prometheus-app.png">
+  <img src="https://img.icons8.com/color/32/postgreesql.png">
+  <img src="https://img.icons8.com/color/32/amazon-web-services.png">
+  <img src="https://img.icons8.com/color/32/ubuntu--v1.png">
 
 </p>
 
