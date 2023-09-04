@@ -10,8 +10,12 @@ This is the place where I opensource stuff and break things :rofl:
 
 **languages and tools:**  
 <p>
-<img src="https://img.icons8.com/ios-filled/32/F4511E/git.png">
-<img src="https://img.icons8.com/ios-filled/32/0277BD/kubernetes.png">
+  
+  <img src="https://img.icons8.com/ios-filled/32/F4511E/git.png">
+  <img src="https://img.icons8.com/ios-filled/32/0277BD/kubernetes.png">
+  <img src="https://img.icons8.com/color/32/FFCC80/golang.png">
+  <img src="https://img.icons8.com/color/32/prometheus-app.png">
+  <img src="https://img.icons8.com/color/32/postgreesql.png">
 </p>
 
 
@@ -25,6 +29,7 @@ This is the place where I opensource stuff and break things :rofl:
 <p align="left">
 <a href= "https://twitter.com/shahabhameed" target="blank"><img src="https://img.icons8.com/ios-filled/32/000000/twitterx.png"/></a>
 <a href= "https://www.linkedin.com/in/shahabhameed"><img src="https://img.icons8.com/ios-filled/32/0288D1/linkedin.png"/></a>
+
 
 <img align="right" alt="GIF" src="https://github.com/shahabhameed/shahabhameed/blob/main/code.gif?raw=true" width="500" height="320" />
 
