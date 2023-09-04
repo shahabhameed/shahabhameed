@@ -23,7 +23,8 @@ This is the place where I opensource stuff and break things :rofl:
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shahabhameed&show_icons=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&theme=dracula" alt="shahabhameed" />
 
 📊 &nbsp;**Weekly development breakdown**
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
