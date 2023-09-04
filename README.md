@@ -34,6 +34,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 <img align="right" alt="GIF" src="https://github.com/shahabhameed/shahabhameed/blob/main/code.gif?raw=true" width="500" height="320" />
 
+![build](https://github.com/shahabhameed/shahabhameed/workflows/README%20build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/shahabhameed/shahabhameed)
 ![pv](https://pageview.vercel.app/?github_user=shahabhameed)
 
