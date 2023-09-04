@@ -2,19 +2,20 @@
 This is the place where I opensource stuff and break things :rofl:
 
 
-<h2 align="left">👨🏻‍💻 About Me</h2>
+👨🏻‍💻 &nbsp;**About Me**
 
 - :computer: I'm a Backend Developer, currently exploring Cloud Native Space
 - :hourglass_flowing_sand: Learning K8s, Golang, AWS
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<be>
 
-<img align="right" alt="GIF" src="https://github.com/shahabhameed/shahabhameed/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<img align="right" alt="GIF" src="https://github.com/shahabhameed/shahabhameed/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-<h2 align="left">📈 My Github Stats</h2>
+📈 &nbsp;**My Github Stats**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shahabhameed&show_icons=true&theme=dark" alt="shahabhameed" />
 
-<h2 align="left">Weekly development breakdown</h2>
+📊 &nbsp;**Weekly development breakdown**
 
 
 🔗 &nbsp;**Connect with me**
