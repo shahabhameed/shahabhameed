@@ -14,11 +14,9 @@ This is the place where I opensource stuff and break things :rofl:
 <img src="https://img.icons8.com/ios-filled/32/0277BD/kubernetes.png">
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/shahabhameed/shahabhameed/blob/main/code.gif?raw=true" width="500" height="320" />
-
 
 📈 &nbsp;**My Github Stats**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shahabhameed&show_icons=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&theme=dracula" alt="shahabhameed" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shahabhameed&show_icons=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&theme=dracula" alt="shahabhameed" />
 
 📊 &nbsp;**Weekly development breakdown**
 
@@ -28,4 +26,5 @@ This is the place where I opensource stuff and break things :rofl:
 <a href= "https://twitter.com/shahabhameed" target="blank"><img src="https://img.icons8.com/ios-filled/32/000000/twitterx.png"/></a>
 <a href= "https://www.linkedin.com/in/shahabhameed"><img src="https://img.icons8.com/ios-filled/32/0288D1/linkedin.png"/></a>
 
+<img align="right" alt="GIF" src="https://github.com/shahabhameed/shahabhameed/blob/main/code.gif?raw=true" width="500" height="320" />
 
