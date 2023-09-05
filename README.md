@@ -30,8 +30,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 📈 &nbsp;**My Github Stats**
 <p align="left"> 
-  <img src="https://github-readme-stats-ehuwey6vd-mshahabhameed.vercel.app/api?username=shahabhameed&show_icons=true&hide_title=true&show=prs_merged,prs_merged_percentage&theme=dracula" alt="shahabhameed" /><br/>
-  <img src="https://github-readme-stats-ehuwey6vd-mshahabhameed.vercel.app/api/top-langs/?username=shahabhameed&theme=dracula" alt="shahabhameed" />
+  <img src="https://github-readme-stats-mshahabhameed.vercel.app/api?username=shahabhameed&show_icons=true&hide_title=true&show=prs_merged,prs_merged_percentage&theme=dracula" alt="shahabhameed" /><br/>
+  <img src="https://github-readme-stats-mshahabhameed.vercel.app/api/top-langs/?username=shahabhameed&theme=dracula" alt="shahabhameed" />
   
 
 📊 &nbsp;**Weekly development breakdown**
