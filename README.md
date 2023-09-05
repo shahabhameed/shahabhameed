@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - :computer: I'm a Backend Developer, currently exploring Cloud Native Space
 - :hourglass_flowing_sand: Learning K8s, Golang, AWS
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<be>
+- :zap: In my free time, I love to attend Meetups for learning & read tech articles<be>
 
 🎯 &nbsp;**Languages And Tools**  
 <p>
