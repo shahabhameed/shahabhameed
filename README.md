@@ -31,7 +31,6 @@ This is the place where I opensource stuff and break things :rofl:
 📈 &nbsp;**My Github Stats**
 <p align="left"> 
   <img src="https://github-readme-stats-mshahabhameed.vercel.app/api?username=shahabhameed&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=dracula" alt="shahabhameed" /><br/>
-  <img src="https://github-readme-stats-mshahabhameed.vercel.app/api/wakatime?username=shahabhameed&hide_title=true&theme=dracula" alt="shahabhameed" /><br/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=shahabhameed&theme=dracula&background=282a36)" alt="shahabhameed" /><br/>
 </p>
 
