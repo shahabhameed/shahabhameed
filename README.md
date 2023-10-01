@@ -38,11 +38,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Go             3 hrs 45 mins   ████████████████▓░░░░░░░░   66.12 %
-Text           1 hr 19 mins    ██████░░░░░░░░░░░░░░░░░░░   23.34 %
-JSON           15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-ActionScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-textmate       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Go             3 hrs 43 mins   ████████████████████▓░░░░   82.76 %
+JSON           15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Text           10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+ActionScript   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+textmate       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
