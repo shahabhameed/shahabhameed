@@ -38,11 +38,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Text       33 mins         ██████████████████▒░░░░░░   73.85 %
-Go         8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-YAML       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-textmate   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Text       18 mins         ███████████████░░░░░░░░░░   60.63 %
+Go         8 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.32 %
+YAML       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Makefile   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+textmate   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
