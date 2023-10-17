@@ -6,6 +6,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 👨🏻‍💻 &nbsp;**About Me**
 
+-  :dart: A wandering aspirant with a knack for ones and zeros.
 - :computer: I'm a Backend Developer, currently exploring Cloud Native Space
 - :hourglass_flowing_sand: Learning K8s, Golang, AWS
 - :zap: In my free time, I love to attend Meetups for learning & read tech articles<be>
