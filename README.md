@@ -39,11 +39,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                11 hrs 34 mins  █████████████████████▓░░░   86.72 %
-YAML              37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Protocol Buffer   30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Text              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Makefile          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Go                5 hrs 5 mins    █████████████████████▓░░░   87.18 %
+Protocol Buffer   33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+YAML              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+protobuf          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+textmate          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
