@@ -39,11 +39,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Go              1 hr 51 mins    ██████████░░░░░░░░░░░░░░░   39.73 %
-YAML            1 hr 36 mins    ████████▓░░░░░░░░░░░░░░░░   34.34 %
-Text            46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
-Python          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-textmate        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Go         1 hr 32 mins    ███████████▓░░░░░░░░░░░░░   46.69 %
+YAML       53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
+Text       34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
+Python     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+textmate   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
