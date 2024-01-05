@@ -39,8 +39,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Go       10 mins         █████████████████████████   100.00 %
-go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go               1 hr 42 mins    ██████████████████████▓░░   90.19 %
+Text             10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
