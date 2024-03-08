@@ -39,11 +39,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                25 hrs 19 mins  ██████████████████▒░░░░░░   73.57 %
-YAML              4 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
-Text              2 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Protocol Buffer   1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-PlantUML file     32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Go                28 hrs 16 mins  ██████████████████▒░░░░░░   72.68 %
+YAML              4 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Text              3 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+Protocol Buffer   1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+protobuf          45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
