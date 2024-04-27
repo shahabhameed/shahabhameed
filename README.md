@@ -39,11 +39,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Text           12 hrs          ████████████████░░░░░░░░░   63.48 %
-Go             4 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
-Bash           58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Makefile       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Docker         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Text                    12 hrs          ████████████████▒░░░░░░░░   65.06 %
+PlantUML file           2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Go                      1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Bash                    58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Makefile                41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
