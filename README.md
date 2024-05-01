@@ -39,11 +39,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Text                    11 hrs 41 mins  ███████████████████░░░░░░   75.38 %
-PlantUML file           2 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-Bash                    43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Shell Script            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-PlantUML include file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Text                    12 hrs 25 mins  ██████████████████▒░░░░░░   73.38 %
+PlantUML file           2 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+YAML                    1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Bash                    24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+PlantUML include file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
