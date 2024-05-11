@@ -39,11 +39,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                      7 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   32.65 %
-YAML                    7 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   31.97 %
-Text                    3 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
-Protocol Buffer         1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-SQL                     44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Go                      5 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 %
+YAML                    5 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   31.03 %
+Text                    2 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+Protocol Buffer         1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+SQL                     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
