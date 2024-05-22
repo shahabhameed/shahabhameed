@@ -39,11 +39,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                2 hrs 57 mins   █████████████▒░░░░░░░░░░░   53.57 %
-YAML              1 hr 2 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
-Text              42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Java Properties   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Bash              11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Go                1 hr 17 mins    █████████▒░░░░░░░░░░░░░░░   37.09 %
+YAML              1 hr            ███████▒░░░░░░░░░░░░░░░░░   29.19 %
+Text              23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Java Properties   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Bash              11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 ```
 
 <!--END_SECTION:waka-->
