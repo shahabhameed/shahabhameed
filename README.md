@@ -39,8 +39,7 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Text   29 mins         ████████████████████████▓   98.64 %
-Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Text   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
