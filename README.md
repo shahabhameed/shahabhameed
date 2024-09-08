@@ -39,10 +39,9 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Text     2 hrs 28 mins   ████████████▓░░░░░░░░░░░░   50.48 %
-Go       2 hrs 8 mins    ███████████░░░░░░░░░░░░░░   43.64 %
-YAML     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Text   2 hrs 24 mins   ███████████████████▓░░░░░   78.25 %
+Go     30 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+YAML   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
