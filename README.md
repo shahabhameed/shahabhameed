@@ -39,8 +39,8 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Text   1 hr 32 mins    ███████████████████▒░░░░░   77.61 %
-YAML   26 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
+Text   3 hrs 2 mins    ██████████████████████░░░   87.41 %
+YAML   26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
 ```
 
 <!--END_SECTION:waka-->
