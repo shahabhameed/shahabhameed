@@ -39,10 +39,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Text       5 hrs 23 mins   █████████████████████▓░░░   86.86 %
-YAML       48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Text                                     6 hrs 54 mins   █████████████████░░░░░░░░   67.91 %
+YAML                                     1 hr 58 mins    █████░░░░░░░░░░░░░░░░░░░░   19.37 %
+systemd                                  21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Lua                                      18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Service unit configuration for systemd   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
