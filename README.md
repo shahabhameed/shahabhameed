@@ -39,11 +39,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                                     4 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   32.81 %
-Text                                     3 hrs 59 mins   ███████▓░░░░░░░░░░░░░░░░░   30.31 %
-JSON                                     2 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
-Go                                       1 hr 55 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
-Service unit configuration for systemd   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+YAML             5 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   30.32 %
+Text             4 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   27.93 %
+Go               3 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
+JSON             2 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+Docker           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
