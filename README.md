@@ -39,10 +39,9 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                  54 mins         █████████████████▒░░░░░░░   69.03 %
-Text                  23 mins         ███████▒░░░░░░░░░░░░░░░░░   29.90 %
-Sublime Text Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Makefile              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML       51 mins         █████████████████████████   99.87 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
