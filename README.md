@@ -39,11 +39,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      1 hr 8 mins     ███████░░░░░░░░░░░░░░░░░░   28.19 %
-CSV        52 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-Text       49 mins         █████░░░░░░░░░░░░░░░░░░░░   20.22 %
-Markdown   34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-Smarty     24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Other      1 hr 8 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
+CSV        52 mins         █████░░░░░░░░░░░░░░░░░░░░   19.99 %
+Text       45 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
+Markdown   34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
+Smarty     29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
 ```
 
 <!--END_SECTION:waka-->
