@@ -40,9 +40,9 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-Go           8 hrs 2 mins          █████████████▓░░░░░░░░░░░   54.44 %
+Go           8 hrs 2 mins          █████████████▓░░░░░░░░░░░   54.42 %
 Markdown     2 hrs 57 mins         █████░░░░░░░░░░░░░░░░░░░░   19.98 %
-YAML         2 hrs 47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+YAML         2 hrs 47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
 Text         23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 JSON         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
