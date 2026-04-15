@@ -21,6 +21,7 @@ This is the place where I opensource stuff and break things :rofl:
   <img src="https://img.icons8.com/color/32/postgreesql.png">
   <img src="https://img.icons8.com/color/32/amazon-web-services.png">
   <img src="https://img.icons8.com/color/32/ubuntu--v1.png">
+  <img src="https://img.icons8.com/color/32/google-cloud-platform.png">
 
 </p>
 
